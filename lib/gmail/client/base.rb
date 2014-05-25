@@ -1,5 +1,4 @@
 require 'thread'
-require_relative 'imap_extensions'
 
 module Gmail
   module Client
